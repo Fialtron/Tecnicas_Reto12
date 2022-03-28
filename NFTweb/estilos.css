@@ -35,6 +35,11 @@ body{
     color: white;
 }
 
+.bg-black20{
+    background-color: rgba(0, 0, 0, .2);
+    color: white;
+}
+
 #a-nav{
     color: white;
 }
@@ -58,13 +63,13 @@ body{
     height: 100%;
 }
 
-.size50{
+
+
+#bg-unete{
+    background-image: url("imagenes/comprar.jpg");
     width: 100%;
-    height: 50%;
-    overflow: hidden;
+    height: 28rem;
 }
-
-
 
 .rem5{
     width: 100%;
